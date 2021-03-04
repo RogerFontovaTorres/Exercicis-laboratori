@@ -14,6 +14,7 @@ print(result)
 Pregunta 2:
 
 MOVE x 3
+
 MOVE y 4
 
 CMP x 0
