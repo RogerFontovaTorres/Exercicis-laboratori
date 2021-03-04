@@ -31,5 +31,15 @@ end:
 Pregunta 3:
 
 a) 11,13  -> 11 * 10 + 9 = 119 cycles   --> time = 119 / 4.77 * 10^6
+
 b) 8,15 -> 8 * 10 + 9 = 89 cylces   --> time = 89 / 4.77 * 10^6
+
 c) 15,8 -> 15 * 10 + 9 = 159 cycles   --> time = 159 / 4.77 * 10^6
+
+Pregunta 4:
+
+f(x) = 9 + 10x
+
+on x es el primer dels dos nombres
+
+Pregunta 5:
