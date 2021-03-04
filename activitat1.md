@@ -11,4 +11,14 @@ while num1 > 0:
 
 print(result)
 ```
+Pregunta 2:
+
+MOVE x 3
+MOVE y 4
+
+CMP x 0
+BRANCH_SMALLER end
+    ADD result y
+end:
+
 
