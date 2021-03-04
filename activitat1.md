@@ -13,13 +13,22 @@ print(result)
 ```
 Pregunta 2:
 
-MOVE x 3
+MOVE x 3 # 3
 
-MOVE y 4
+MOVE y 4 # 3
 
-CMP x 0
-BRANCH_SMALLER end
-    ADD result y
+MOVE result 0 # 3
+
+#cost of 9 cycles
+
+CMP x 0 # 2
+BRANCH_SMALLER end # 5
+    ADD result y # 3
+    
+    # cost of 10 cylces each loop
 end:
 
+Pregunta 3:
 
+a) 11,13  -> 11 * 10 + 9 = 119 cycles
+b) 8,15 -> 8 * 10 + 9 = 89 cylces
